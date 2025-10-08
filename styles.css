@@ -1,0 +1,38 @@
+p{
+  text-align: center;
+  color: cyan;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.fName{
+  color: green;
+}
+
+#special{
+  font size: 45;
+  text-align: center;
+  letter-spacing: 5px;
+  color: black;
+}
+
+#status {
+  font-size: 1.2em;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+body{
+   font-family: "Copperplate";
+}
+
+h1{
+  color: red;
+}
+
+
+h2{
+  color: pink;
+}
